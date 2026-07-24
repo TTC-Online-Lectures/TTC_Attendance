@@ -1,6 +1,6 @@
 {
   "name": "TTC Parent Portal",
-  "short_name": "TTC Parent",
+  "short_name": "TTC Attendence",
   "start_url": "./",
   "display": "standalone",
   "background_color": "#FAFAFA",
