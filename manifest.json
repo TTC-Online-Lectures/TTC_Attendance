@@ -1,7 +1,8 @@
 {
   "name": "TTC Parent Portal",
-  "short_name": "TTC Attendence",
-  "start_url": "/",
+  "short_name": "TTC Attendance",
+  "start_url": "/TTC_Attendance/",
+  "scope": "/TTC_Attendance/",
   "display": "standalone",
   "background_color": "#FAFAFA",
   "theme_color": "#FDF2F8",
